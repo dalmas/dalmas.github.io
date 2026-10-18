@@ -1,0 +1,13 @@
+#+title: Minhas anotações
+#+author: Marcelo Dalmas
+
+* Motivação
+
+Deixar anotado de forma pública e acessível algumas notas e projetos
+que pretendo desenvolver, primeiramente na área de tecnologia.
+
+* Primeiros passos
+
+Estou utilizando o [[https://docs.github.com/pt/pages/getting-started-with-github-pages/what-is-github-pages][GitHub Pages]] para hospedagem. Para escrever a
+anotações estou usando Emacs e [[https://orgmode.org/index.html][Org Mode]].
+
